@@ -36,3 +36,26 @@ MySQL, MySQL Workbench, SQL
 - Many-to-many relationships via junction tables
 - SQL querying and data manipulation
 - Database security and access control design
+
+## Screenshots
+
+### ER Diagram
+![ER Diagram](screenshots/erd.png)
+
+### Logical Schema - Part 1
+![Logical Schema Part 1](screenshots/logical-schema-1.png)
+
+### Logical Schema - Part 2
+![Logical Schema Part 2](screenshots/logical-schema-2.png)
+
+### Logical Schema - Part 3
+![Logical Schema Part 3](screenshots/logical-schema-3.png)
+
+### Interface Wireframe
+![Interface Wireframe](screenshots/wireframe-search-treatment-history.png)
+
+### SQL Database Setup
+![SQL Database Setup](screenshots/sql-database-setup.png)
+
+### SQL Query Result
+![SQL Query Result](screenshots/sql-query-result.png)
