@@ -25,10 +25,12 @@ Designed and implemented a complete database system for Paws & Whiskers Animal C
 - User and developer feedback collection
 
 ## Tools Used
-MySQL, MySQL Workbench, SQL
+-MySQL 
+-MySQL Workbench
+-SQL
 
 ## Files
-- `sql/paws_and_whiskers_database.sql` — Full SQL script (database creation, tables, data, queries)
+- paws_and_whiskers_database.sql` — Full SQL script (database creation, tables, data, queries)
 
 ## Key Concepts Demonstrated
 - Database normalization (1NF, 2NF, 3NF)
